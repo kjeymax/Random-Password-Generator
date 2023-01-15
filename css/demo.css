@@ -92,6 +92,12 @@ main{
   
 }
 
+.drk main{
+  background: #1e1e1e;
+  padding:: 20px;
+  
+}
+
 article li{
    color: #444;
    font-size: 15px;
